@@ -1,1 +1,2 @@
-![kiwi](https://images.immediate.co.uk/production/volatile/sites/30/2020/02/Kiwi-fruits-582a07b.jpg?quality=90&resize=556,505)
+![Nulxn's GitHub stats](https://github-readme-stats.vercel.app/api?username=nulxn&show_icons=true&theme=dracula)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nulxn&repo=athletic-data&theme=dracula)](https://github.com/nulxn/athletic-data)
